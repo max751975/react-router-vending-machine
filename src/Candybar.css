@@ -1,0 +1,9 @@
+.Candybar {
+  background-image: url("https://thumbs.dreamstime.com/b/croydon-uk-january-illustrative-editorial-mixed-chocolate-candy-bars-still-wrapper-snickers-mars-lion-twix-isolated-205124570.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  height: 80vh;
+  width: 80vw;
+  margin: 0 auto;
+}
